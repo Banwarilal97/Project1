@@ -34,7 +34,7 @@ public class A {
 		tm.put("INDIA", hm);
 
 		System.out.println(tm);
-		
+		System.out.println(patel);
 		return tm;
 	}
 
